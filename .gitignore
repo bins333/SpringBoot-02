@@ -33,3 +33,7 @@ buildNumber.properties
 
 #common
 log4j-application.log
+/derby.log
+/HELP.md
+/mvnw
+/mvnw.cmd
