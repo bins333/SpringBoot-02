@@ -8,7 +8,7 @@ Database: Apache Derby (embedded) </br>
 </i>
 </h5>
 
-[REST API Docs](https://documenter.getpostman.com/view/1524126/S1a7UQZ4)
+[REST API Docs](https://documenter.getpostman.com/view/1524126/S1a7UjjN)
 
 
 
